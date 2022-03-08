@@ -8,5 +8,5 @@
 
 ## Переменные окружения:
 * `PRAKTIKUM_TOKEN` токен аутентификации Яндекс.Практикума
-* `TELEGRAM_TOKEN`  телеграмм токен созданного вами бота
-* `TELEGRAM_CHAT_ID`         id чата с вами
+* `TELEGRAM_TOKEN`  телеграмм токен
+* `TELEGRAM_CHAT_ID` id чата
